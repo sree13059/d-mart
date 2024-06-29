@@ -1,0 +1,54 @@
+.hello{
+    display: flex;
+}
+.dmart{
+    margin-left: 400px;
+}
+.register{
+    display: flex;
+}
+.links{
+    margin-left: 20px;
+}
+.job{
+    display: flex;
+}
+.Aspirant{
+    margin-left: 20px;
+}
+.fortune{
+    margin-left: 50%;
+    margin-top: 5px;
+}
+
+.Future{
+    margin-top: 50px;
+
+}
+.stores{
+    display: flex;
+}
+.sachin{
+    margin-left: 100px;
+}
+.Nirmal{
+    margin-left: 100px;
+}
+.Dwaraka{
+    display: flex;
+}
+.nagar{
+    margin-left: 300px;
+}
+.nasik{
+    margin-left: 400px;
+}
+.footer{
+    display: flex;
+}
+.property{
+    margin-left: 500px;
+}
+.feedback{
+    display: flex;
+}
